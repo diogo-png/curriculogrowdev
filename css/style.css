@@ -45,7 +45,7 @@ justify-content: center;
 }
 
 #btn-projeto {
-border: 2px solid black;
+border: 2px solid #fff(255, 255, 255);
 border-radius: 20px;
 padding: 5px 25px;
 font-weight: 600px;
